@@ -6,7 +6,6 @@ Technologies and tools I've used with this project:
   - CSS3 SASS preprocessor
   - BEM Methodology
   - Webpack
-  - Javascript
   - Figma
 
   Live: https://dawidmmm.github.io/shipping-website/
